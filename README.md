@@ -26,8 +26,8 @@ The slideshow can be navigated either with arrow keys or vim bindings: use <kbd>
 
 ## See Also
 
-- **[🔐 personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)** - A comprehensive checklist of security guidelines
-- **[🦄 awesome-privacy](https://github.com/Lissy93/awesome-privacy)** - A curated list of privacy-respecting software and services
+- **[🔐 personal-security-checklist](https://github.com/mwakidenis/personal-security-checklist)** - A comprehensive checklist of security guidelines
+- **[🦄 awesome-privacy](https://github.com/mwakidenis/awesome-privacy)** - A curated list of privacy-respecting software and services
 
 ---
 
@@ -35,14 +35,14 @@ The slideshow can be navigated either with arrow keys or vim bindings: use <kbd>
 
 The app is built using [Reveal.js](https://revealjs.com/).
 
-To make changes, fork and / or clone the repository. Then make update content in the [`index.html`](https://github.com/Lissy93/cyber-defence-presentation/blob/master/index.html).
+To make changes, fork and / or clone the repository. Then make update content in the [`index.html`](https://github.com/mwakidenis/cyber-defence-presentation/blob/master/index.html).
 You can run the app by serving the project root directly, with any CDN or static hosting provider (e.g. GH Pages or Netlify).
 
 ---
 
 <p  align="center">
-  <i>© <a href="https://aliciasykes.com">Alicia Sykes</a> 2018</i><br>
-  <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
-  <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a>
+  <i>© <a href="https://github.com/mwakidenis">Mwaki Denis</a> 2018</i><br>
+  <i>Licensed under <a href="https://gist.github.com/mwakidenis/143d2ee01ccc5c052a17">MIT</a></i><br>
+  <a href="https://github.com/mwakidenis"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a>
 </p>
 
