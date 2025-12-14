@@ -41,7 +41,7 @@ You can run the app by serving the project root directly, with any CDN or static
 ---
 
 <p  align="center">
-  <i>© <a href="https://github.com/mwakidenis">Mwaki Denis</a> 2018</i><br>
+  <i>© <a href="https://github.com/mwakidenis">Mwaki Denis</a> 2025</i><br>
   <i>Licensed under <a href="https://gist.github.com/mwakidenis/143d2ee01ccc5c052a17">MIT</a></i><br>
   <a href="https://github.com/mwakidenis"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a>
 </p>
